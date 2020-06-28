@@ -31,4 +31,4 @@ node ./index.js
 
 <img src="https://i.imgur.com/TcJKWyr.png" width = "100%" height = "70%" alt="" align=center />
 
-<img src="https://i.imgur.com/QImtb7p.png" width = "100%" height = "70%" alt="" align=center />
+<img src="https://i.imgur.com/QImtb7p.png" width = "50%" height = "50%" alt="" align=center />
